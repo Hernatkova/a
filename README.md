@@ -1,7 +1,7 @@
 # goorm-v2ray
 
 
-wget https://raw.githubusercontent.com/LiJinChang/goorm-v2ray/master/goormv2.sh && chmod +x goormv2.sh && ./goormv2.sh
+wget https://raw.githubusercontent.com/Hernatkova/a/master/goormv2.sh && chmod +x goormv2.sh && ./goormv2.sh
 
 地址和端口为 goorm 容器设置里的 URL / Port 
 
